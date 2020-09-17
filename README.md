@@ -6,7 +6,12 @@
 <hr>
 
 <h3> 사용 기술 </h3>
-Arduino , python(flask) , HTML5 , MYSQL
+<ul>
+  <li>Arduino</li>
+  <li>python(flask)</li>
+  <li>HTML5</li>
+  <li>MYSQL</li>
+</ul>
 
 <hr>
 
